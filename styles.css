@@ -1,0 +1,122 @@
+html{
+  scroll-behavior: smooth;
+}
+
+h2{
+  text-align:center;
+  font-family: 'Montserrat', sans-serif;
+  font-size : 250%;
+  font-weight:bold;
+  color:white;
+}
+
+/* HOME PAGE*/
+.home-page{
+  background-color:#0e0b16;
+  text-align:center;
+  padding-bottom:18%;
+}
+
+.picture-img{
+    padding-top:5%;
+    right: 15%;
+    width: 15%;
+}
+
+.name-title{
+  font-family: 'Montserrat', sans-serif;
+  color:white;
+  font-size:560%;
+  padding-top:5%;
+  letter-spacing: 0.08em;
+}
+
+.work-title{
+  font-family: 'Montserrat', sans-serif;
+  color:white;
+  font-size:120%;
+  padding-top:2%;
+}
+
+.my-resume{
+  font-family: 'Montserrat', sans-serif;
+  color:white;
+  font-size:60%;
+  padding-top:2%;
+}
+
+.resume-download{
+  display: inline-block;
+  padding: 1% 5px 1%;
+}
+
+.download-icon{
+  color:white;
+}
+
+/* Nav Bar*/
+.logo-img{
+  left: 2%;
+  padding-top:1%;
+  right: 2.5%;
+  width: 2.5%;
+  position:fixed;
+}
+
+.navbar {
+  padding: 0 2rem 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: 500;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-family: 'Montserrat';
+  font-size: 1.2rem;
+}
+
+/* ABOUT PAGE*/
+
+
+.about-page{
+padding-top:4%;
+text-align: center;
+padding-bottom:18%;
+background-color:#0e0b16;
+}
+
+.about-me{
+  padding: 4% 20%;
+  line-height:200%;
+  font-family: Arial;
+  font-size: 180%;
+  color:white;
+}
+
+/* WORK PAGE*/
+#myCarousel {
+  text-align: center;
+  background-color: #0e0b16;
+}
+
+.carousel-item {
+  padding: 5%;
+}
+
+
+/* FOOTER */
+#footer {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
